@@ -1,2 +1,2 @@
 # Calculadora_Matrices
-Calculadora de matrices
+Programa diseñado en C capaz de realizar operaciónes entre matrices.
