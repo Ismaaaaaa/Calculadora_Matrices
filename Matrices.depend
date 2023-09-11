@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694360574 source:/home/isma/AprendiendoC/Matrices/main.c
+	<stdio.h>
+	"matrices.h"
+
+1694362672 /home/isma/AprendiendoC/Matrices/matrices.h
+
+1694363267 source:/home/isma/AprendiendoC/Matrices/matrices.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+
